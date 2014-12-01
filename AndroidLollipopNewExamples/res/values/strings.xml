@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">AndroidLollipopNewExamples</string>
+    <string name="sample_text_header">Sample card header</string>
+    <string name="sample_text_footer">Sample card footer</string>
+    <string name="sample_text_image">Sample image</string>
+
+</resources>
